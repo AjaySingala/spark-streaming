@@ -1,0 +1,8 @@
+.idea
+checkpoint/*
+output/*
+spark-warehouse/*
+target/*
+*.iml
+src/main/scala/Kafka-Integration
+src/main/scala/mySqlDF.scala
